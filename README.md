@@ -1,3 +1,2 @@
-# CODESOFT-Python_Task2
-## Task-2 Calculator
+# Simple Calculator
 This is a graphical calculator application built using Tkinter in Python. The calculator provides a user-friendly interface with large display labels for the total expression and the current input. It supports basic arithmetic operations with clear, square, and square root functionalities. The calculator has a sleek design with a light gray background and white buttons. Users can interact with the calculator using both mouse clicks and keyboard inputs, and it handles mathematical expressions, displaying the total expression in a readable format. Overall, it offers a convenient and visually appealing tool for performing calculations.
